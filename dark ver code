@@ -1,8 +1,8 @@
 theme: Minecraft Inventory Dark(By WasiXGamer)
 disableNewStartMenuLayout: forceNewLayout
 styleConstants:
-  - Startbg=<ImageBrush ImageSource="https://raw.githubusercontent.com/rmg946/my-Minecraft-Start-Menu-for-Windows-11/main/inventorybg-dark.png" Stretch="Fill"/>
-  - Searchbg=<ImageBrush ImageSource="https://raw.githubusercontent.com/rmg946/my-Minecraft-Start-Menu-for-Windows-11/main/searchbg-dark.png" Stretch="Fill"/>
+  - Startbg=<ImageBrush ImageSource="https://raw.githubusercontent.com/rmg946/my-Minecraft-Start-Menu-for-Windows-11/refs/heads/main/inventorybg-dark.png" Stretch="Fill"/>
+  - Searchbg=<ImageBrush ImageSource="https://github.com/rmg946/my-Minecraft-Start-Menu-for-Windows-11/blob/main/searchbg-dark.png?raw=true" Stretch="Fill"/>
 controlStyles:
   - target: Windows.UI.Xaml.Internal.RootScrollViewer
     styles:
